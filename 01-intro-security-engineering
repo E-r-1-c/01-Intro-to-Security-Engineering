@@ -1,51 +1,19 @@
 # Introduction to Security Engineering
 
-![Security Engineer](images/security-engineer-day.png)
+## What is a Security Engineer?
+- Owns the company’s overall security posture
+- Designs systems to protect digital assets
+- Minimizes and manages vulnerabilities, runs tests and audits
 
-This module introduces the role of a Security Engineer, their responsibilities, and core security principles. By the end, you’ll understand what it takes to protect an organization’s digital assets.
+## Core Responsibilities
+- **Asset Management**: Keep inventory of digital assets
+- **Security Policies**: Organization-wide security rules
+- **Secure-by-Design**: Build systems inherently hard to break
+- **Security Assessment and Assurance**: Continuously improve defenses
 
----
-
-## Task 1: Introduction
-Security Engineering is the practice of protecting an organization's digital assets. A Security Engineer designs, implements, and monitors systems to ensure **confidentiality, integrity, and availability** of information.
-
----
-
-## Task 2: What is a Security Engineer?
-A **Security Engineer** owns the company’s overall security posture. They protect digital assets, manage vulnerabilities, and run tests and audits to validate security defenses.
-
----
-
-## Task 3: Core Responsibilities of a Security Engineer
-- **Asset Management:** Maintain an inventory of digital assets. *You can’t protect what you don’t know exists.*  
-- **Security Policies:** Create organization-wide policies based on security principles.  
-- **Secure-by-Design:** Build systems that are inherently secure.  
-- **Security Assessment & Assurance:** Continuously test and validate defenses against evolving threats.
-
----
-
-## Task 4: Continuous Improvement
-- **Security Awareness:** Train employees to recognize social engineering and follow cybersecurity best practices.  
-- **Risk Management:** Advise the business on which risks can be accepted and which need mitigation.  
-- **Change Management:** Review new changes to identify potential security impacts.  
-- **Vulnerability Management:** Monitor and patch vulnerabilities, prioritizing the most severe.  
-- **Compliance & Audits:** Ensure adherence to laws, regulations, and standards.
-
----
-
-## Task 5: Additional Roles and Responsibilities
-- Collaboration with IT teams to implement security controls.  
-- Incident response planning and execution.  
-- Documentation of security processes and policies.  
-- Evaluating new technologies for potential security risks.
-
----
-
-## Task 6: Walking in Their Shoes
-A day in the life of a Security Engineer includes monitoring alerts, reviewing audit reports, patching vulnerabilities, designing secure systems, and advising leadership on risk decisions.
-
----
-
-## Task 7: Conclusion
-Security Engineers are proactive guardians of an organization’s digital ecosystem. Their role combines **technical expertise, policy creation, continuous monitoring, and employee education** to maintain a strong security posture.
-
+## Continuous Improvement
+- **Security Awareness**: Train employees to spot threats
+- **Risk Management**: Advise on what risks to accept and mitigate
+- **Change Management**: Review new changes for potential risks
+- **Vulnerability Management**: Monitor and patch vulnerabilities
+- **Compliance & Audits**: Ensure legal and standard compliance
