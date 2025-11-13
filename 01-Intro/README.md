@@ -1,44 +1,31 @@
-Files in This Module
-1. What Is a Security Engineer?
+# 01 — Introduction to Security Engineering
 
-01-What-is-Security-Engineer.md
-Overview of the role, the core mission, and what separates strong security engineers from average ones.
+This module introduces the foundational concepts of Security Engineering.
 
-2. Core Responsibilities
+## Contents
 
-02-Core-Responsibilities.md
-Breakdown of day-to-day tasks: monitoring, threat modeling, remediation, cloud security, incident response, and more.
+- **01-What-is-Security-Engineer.md**  
+  Overview of the role and purpose of a Security Engineer.
 
-3. Continuous Improvement
+- **02-Core-Responsibilities.md**  
+  Key responsibilities such as securing systems, assessments, and threat management.
 
-03-Continuous-Improvement.md
-How security engineers grow, learn, and adapt. Includes skill development, staying ahead of threats, and keeping sharp.
+- **03-Continuous-Improvement.md**  
+  How Security Engineers evolve, learn, and stay ahead of threats.
 
-4. Additional Roles
+- **04-Additional-Roles.md**  
+  Related roles and how they fit into the security ecosystem.
 
-04-Additional-Roles.md
-Covers related roles (SOC analyst, pentester, cloud security engineer, IAM engineer) and how they connect.
+## Purpose
 
-What You’ll Learn Here
+This folder provides:
+- High-level understanding of what Security Engineers do  
+- Core responsibilities and expectations  
+- Long-term mindset and growth path  
+- Context for roles you’ll encounter in the field
 
-By completing this module, you’ll understand:
+## Usage
 
-The real purpose of a security engineer
+Review each file in order.  
+Use this module as a reference base for the rest of the Security Engineering path.
 
-The skills and mindset the role requires
-
-How engineers analyze threats and secure systems
-
-The landscape of supporting and adjacent security roles
-
-How to build a long-term growth plan in security engineering
-
-How to Use This Module
-
-Read each file in order — they’re structured as a progression.
-
-Add your own notes or diagrams as you learn.
-
-Update files over time to reflect deeper understanding.
-
-Treat this folder as a reference foundation for the rest of your security engineering path.
