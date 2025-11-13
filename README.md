@@ -6,16 +6,16 @@ This repository contains structured notes and write-ups for learning Security En
 
 ## Table of Contents
 
-1. [Security Engineer Intro](./01-intro-security-engineering)  
+1. [Security Engineer Intro](./01-Intro)  
    *What does a day in the life of a security engineer look like?*
 
-2. [Security Principles](./02-security-principles)  
+2. [Security Principles](./02-Security-Principles)  
    *Learn about the security triad and common security models and principles.*
 
-3. [Introduction to Cryptography](./03-cryptography)  
+3. [Introduction to Cryptography](./03-Cryptography)  
    *Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS.*
 
-4. [Identity & Access Management](./04-identity-access-management)  
+4. [Identity & Access Management](./04-Identity-Access-Management)  
    *Learn about identification, authentication, authorization, accountability, and identity management.*
 
 ---
