@@ -52,4 +52,21 @@ Cryptography is the practice of protecting information so that only the intended
 ## PKI and SSL/TLS
 - **Public Key Infrastructure (PKI)**: System of digital certificates, certificate authorities (CAs), and trust relationships.  
 - **Purpose**: Ensure identity of entities, secure communication.  
-- **SSL/TLS Handshak**
+- **SSL/TLS Handshake**:
+  1. Exchange certificates and public keys.  
+  2. Use asymmetric encryption to establish a shared session key.  
+  3. Switch to symmetric encryption for efficient secure communication.
+
+---
+
+## Authenticating with Passwords
+- **Hashes** keep passwords secure but are vulnerable to rainbow tables.  
+- **Salting**: Add a random value to each password before hashing to prevent precomputed attacks.  
+- **PBKDF2**: Password-Based Key Derivation Function 2 — applies multiple iterations to make brute-force attacks costly.  
+
+---
+
+## Cryptography in Action
+- Encrypt messages between parties using symmetric or asymmetric methods.  
+- Verify integrity and authenticity via hashing or digital signatures.  
+- Secure communication over untrusted networks using TLS/SSL and PKI.
