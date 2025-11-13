@@ -1,22 +1,33 @@
-# 01-Intro-to-Security-Engineering
-Foundational concepts for Security Engineering: security principles, cryptography, IAM, Zero Trust, and security models. TryHackMe module write-ups and notes.
+# Security Engineer Learning Path
+
+This repository contains structured notes and write-ups for learning Security Engineering. Each module corresponds to a core area in the Security Engineer path.
+
+---
 
 ## Table of Contents
-1. [Security Principles](./01-Security-Principles)
-2. [Cryptography](./02-Cryptography)
-3. [Identity & Access Management](./03-Identity-and-Access-Management)
-4. [Threats & Risks](./04-Threats-and-Risks)
-5. [Governance & Compliance](./05-Governance-and-Compliance)
 
-## Repo Structure
-Each folder represents a TryHackMe module or core topic:
-- **01-Security-Principles/**: Security models, CIA/DAD, defense-in-depth, Zero Trust.
-- **02-Cryptography/**: Symmetric, asymmetric, hashing, PKI, SSL/TLS, passwords.
-- **03-Identity-and-Access-Management/**: IAM models, authentication, authorization, SSO.
-- **04-Threats-and-Risks/**: Risk management, threat modeling, vulnerability management.
-- **05-Governance-and-Compliance/**: Policies, standards, frameworks, privacy, regulations.
+1. [Security Engineer Intro](./01-intro-security-engineering)  
+   *What does a day in the life of a security engineer look like?*
 
-## How to Use
-- Open each folder to see notes and summaries of the TryHackMe rooms.
-- Use the included diagrams and examples for study or reference.
-- Each room has its own README.md summarizing the key points and lessons learned.
+2. [Security Principles](./02-security-principles)  
+   *Learn about the security triad and common security models and principles.*
+
+3. [Introduction to Cryptography](./03-cryptography)  
+   *Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS.*
+
+4. [Identity & Access Management](./04-identity-access-management)  
+   *Learn about identification, authentication, authorization, accountability, and identity management.*
+
+---
+
+## How to Use This Repo
+
+- Each folder contains Markdown notes, diagrams, and lab write-ups for the corresponding module.  
+- Complete the modules in order to build a strong foundation in Security Engineering.  
+- Use this repository as both a personal reference and a portfolio of your security knowledge.
+
+---
+
+## License
+
+[MIT](LICENSE)  
