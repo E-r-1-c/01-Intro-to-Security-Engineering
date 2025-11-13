@@ -25,9 +25,3 @@ This repository contains structured notes and write-ups for learning Security En
 - Each folder contains Markdown notes, diagrams, and lab write-ups for the corresponding module.  
 - Complete the modules in order to build a strong foundation in Security Engineering.  
 - Use this repository as both a personal reference and a portfolio of your security knowledge.
-
----
-
-## License
-
-[MIT](LICENSE)  
